@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # OpenChat
 -Frontend: Next.js in frontend/(port 3000)
 - Backend: FastApi in backend/ (port 8000)
+
 - AI: Ollama at local host:11434
 - Run everything: ./start.sh
 - Test: cd backend && pytest
