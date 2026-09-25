@@ -1,0 +1,9 @@
+{
+  "python-envs.pythonProjects": [
+    {
+      "path": ".claude/skills/uv-project-scaffold",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
+}
